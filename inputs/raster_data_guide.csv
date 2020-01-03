@@ -1,0 +1,54 @@
+dataset,description,units,date_range
+aa1_pm300m,predicted annual average fine particulate matter <2.5 microns,ug/m3,Dec 2008-Dec 2009
+aa2_pm300m,predicted annual average fine particulate matter <2.5 microns,ug/m3,Dec 2009-Dec 2010
+aa3_pm300m,predicted annual average fine particulate matter <2.5 microns,ug/m3,Dec 2010-Dec 2011
+aa4_pm300m,predicted annual average fine particulate matter <2.5 microns,ug/m3,Dec 2011-Dec 2012
+aa5_pm300m,predicted annual average fine particulate matter <2.5 microns,ug/m3,Dec 2012-Dec 2013
+aa6_pm300m,predicted annual average fine particulate matter <2.5 microns,ug/m3,Dec 2013-Dec 2014
+aa7_pm300m,predicted annual average fine particulate matter <2.5 microns,ug/m3,Dec 2014-Dec 2015
+aa8_pm300m,predicted annual average fine particulate matter <2.5 microns,ug/m3,Dec 2015-Dec 2016
+aa9_pm300m,predicted annual average fine particulate matter <2.5 microns,ug/m3,Dec 2016-Dec 2017
+aa1_no2300m,predicted annual average Nitrogen dioxide,ppb,Dec 2008-Dec 2009
+aa2_no2300m,predicted annual average Nitrogen dioxide,ppb,Dec 2009-Dec 2010
+aa3_no2300m,predicted annual average Nitrogen dioxide,ppb,Dec 2010-Dec 2011
+aa4_no2300m,predicted annual average Nitrogen dioxide,ppb,Dec 2011-Dec 2012
+aa5_no2300m,predicted annual average Nitrogen dioxide,ppb,Dec 2012-Dec 2013
+aa6_no2300m,predicted annual average Nitrogen dioxide,ppb,Dec 2013-Dec 2014
+aa7_no2300m,predicted annual average Nitrogen dioxide,ppb,Dec 2014-Dec 2015
+aa8_no2300m,predicted annual average Nitrogen dioxide,ppb,Dec 2015-Dec 2016
+aa9_no2300m,predicted annual average Nitrogen dioxide,ppb,Dec 2016-Dec 2017
+aa1_no300m,predicted annual average nitric oxide,ppb,Dec 2008-Dec 2009
+aa2_no300m,predicted annual average nitric oxide,ppb,Dec 2009-Dec 2010
+aa3_no300m,predicted annual average nitric oxide,ppb,Dec 2010-Dec 2011
+aa4_no300m,predicted annual average nitric oxide,ppb,Dec 2011-Dec 2012
+aa5_no300m,predicted annual average nitric oxide,ppb,Dec 2012-Dec 2013
+aa6_no300m,predicted annual average nitric oxide,ppb,Dec 2013-Dec 2014
+aa7_no300m,predicted annual average Nitric oxide,ppb,Dec 2014-Dec 2015
+aa8_no300m,predicted annual average Nitric oxide,ppb,Dec 2015-Dec 2016
+aa9_no300m,predicted annual average Nitric oxide,ppb,Dec 2016-Dec 2017
+w1_so2300m,predicted winter average sulfur dioxide,ppb,Dec 2008-Feb 2009
+w2_so2300m,predicted winter average sulfur dioxide,ppb,Dec 2009-Feb 2010
+w3_so2300m,predicted winter average sulfur dioxide,ppb,Dec 2010-Feb 2011
+w4_so2300m,predicted winter average sulfur dioxide,ppb,Dec 2011-Feb 2012
+w5_so2300m,predicted winter average sulfur dioxide,ppb,Dec 2012-Feb 2013
+w6_so2300m,predicted winter average sulfur dioxide,ppb,Dec 2013-Feb 2014
+w7_so2300m,predicted winter average sulfur dioxide,ppb,Dec 2014-Feb 2015
+w8_so2300m,predicted winter average sulfur dioxide,ppb,Dec 2015-Feb 2016
+s1_o3300m,predicted summer average ozone,ppb,June-Aug 2009
+s2_o3300m,predicted summer average ozone,ppb,June-Aug 2010
+s3_o3300m,predicted summer average ozone,ppb,June-Aug 2011
+s4_o3300m,predicted summer average ozone,ppb,June-Aug 2012
+s5_o3300m,predicted summer average ozone,ppb,June-Aug 2013
+s6_o3300m,predicted summer average ozone,ppb,June-Aug 2014
+s7_o3300m,predicted summer average ozone,ppb,June-Aug 2015
+s8_o3300m,predicted summer average ozone,ppb,June-Aug 2016
+s9_o3300m,predicted summer average ozone,ppb,June-Aug 2017
+aa1_bc300m,predicted annual average black carbon,abs,Dec 2008-Dec 2009
+aa2_bc300m,predicted annual average black carbon,abs,Dec 2009-Dec 2010
+aa3_bc300m,predicted annual average black carbon,abs,Dec 2010-Dec 2011
+aa4_bc300m,predicted annual average black carbon,abs,Dec 2011-Dec 2012
+aa5_bc300m,predicted annual average black carbon,abs,Dec 2012-Dec 2013
+aa6_bc300m,predicted annual average black carbon,abs,Dec 2013-Dec 2014
+aa7_bc300m,predicted annual average black carbon,abs,Dec 2014-Dec 2015
+aa8_bc300m,predicted annual average black carbon,abs,Dec 2015-Dec 2016
+aa9_bc300m,predicted annual average black carbon,abs,Dec 2016-Dec 2017
