@@ -53,7 +53,7 @@ corMatrix <- cor(df.linc[c("aa9_no2300m" , "aa9_no300m" , "aa9_pm300m" , "w8_so2
 
 print(corMatrix)
 
-fit <- lm(formula = CASTHMA ~  CSMOKING + black + black * nycha2_, data = df) ; summary(fit) 
+fit <- lm(formula = CASTHMA ~  CSMOKING + medincome + black * nycha2_, data = df) ; summary(fit) 
 
 # https://uc-r.github.io/t_test
 
