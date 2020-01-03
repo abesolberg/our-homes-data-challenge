@@ -74,8 +74,12 @@ t.test(CASTHMA ~ nycha2_ , df.t , paired = T)
 wilcox.test(CASTHMA ~ nycha2_ , df.t , paired = T)
 
 
+df.t<- function() {
+  bind_rows(sample_n(df.linc %>% filter(nycha2_ == 1) , 50) , 
+            sample_n(df.linc %>% filter(nycha2_ == 0) , 50)) 
+  } 
 
-
+estimates <- replicate(n = 10 , t.test(CASTHMA ~ nycha2_ , df.t() , paired = T)$estimate ) ; plot(estimates) ; summary(estimates)
  
 ## Data Visualizations ## ----
 
